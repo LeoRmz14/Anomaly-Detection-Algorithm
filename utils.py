@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 
 def load_data():
     X = np.load("data/X_part1.npy")
